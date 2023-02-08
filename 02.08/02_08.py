@@ -1,2 +1,3 @@
 print("asdadasd")
-print("noriu senos versijos")
+
+print("vienas du 3")
