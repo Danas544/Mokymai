@@ -28,14 +28,16 @@ bendras.extend(antras)
 bendras.extend(trecias)
 bendras.extend(ketvirtas)
 bendras.extend(penktas)
-print(bendras)
-dictk = {}
+#print(bendras)
+dictk = []
 for bend in bendras:
     x = bend
-    x = collections.Counter(x)
     dictk.append(x)
+    
+    
+print(dictk)
+x = collections.Counter(str(dictk))
 print(x)
-
 # for pirm in pirmas:
 #     x = pirm
 #     p = collections.Counter(x)
