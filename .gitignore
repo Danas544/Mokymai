@@ -3,3 +3,5 @@ __pycache__
 venv
 Pipfile
 Pipfile.lock
+/03.22/env
+.vscode
