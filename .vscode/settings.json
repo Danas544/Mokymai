@@ -5,5 +5,9 @@
     "python.linting.mypyEnabled": true,
     "python.analysis.extraPaths": [
         "./02.02"
-    ]
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
 }
