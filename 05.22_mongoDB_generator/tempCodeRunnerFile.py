@@ -1,0 +1,1 @@
+        for i in tqdm (range (doc), desc="Loading…", ascii=False, ncols=75):
